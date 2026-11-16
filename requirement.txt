@@ -1,0 +1,23 @@
+# 后端核心
+flask==3.0.0
+flask-cors==4.0.0
+pydantic==2.9.2
+pyjwt==2.8.0
+tenacity==8.5.0
+
+# 数据库与向量库
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+pymilvus==2.4.5
+
+# AI与向量模型
+sentence-transformers==2.2.2
+openai==1.51.0
+
+# 前端
+streamlit==1.28.2
+requests==2.32.3
+
+# 工具类
+pandas==2.1.3
+python-dotenv==1.0.0
